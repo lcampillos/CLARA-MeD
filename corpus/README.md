@@ -38,7 +38,7 @@ The folder structure is as follows:
 
 - [Centro de Información de Medicamentos (CIMA, 'Medicine Online Information Center')](https://cima.aemps.es), from the Agencia Española de Medicamentos y Productos Sanitarios (AEMPS). 
 - [EU Clinical Trials Register](https://www.clinicaltrialsregister.eu)
-- [National Cancer Institute (NCI)](www.cancer.gov)
+- [National Cancer Institute (NCI)](https://www.cancer.gov)
 
 ### License
 
@@ -56,11 +56,18 @@ If you use this corpus, please cite the reference as follows:
 
 ``
 @article{2022claramedcorpus,
+  
   title={Building a comparable corpus and a benchmark for Spanish medical text simplification},
+  
   author={Campillos-Llanos, Leonardo and Terroba Reinares, Ana R., and Zakhir Puig, Sofía, and Valverde-Mateos, Ana and Capllonch-Carri{\'o}n},
+  
   title={Procesamiento del Lenguaje Natural},
+  
   volume={69},
+  
   year={2022},
+  
   publisher={Sociedad Espa{\~n}ola para el Procesamiento del Lenguaje Natural}
+
 }
 ``
