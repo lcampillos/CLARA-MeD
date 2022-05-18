@@ -54,20 +54,14 @@ leonardo.campillos AT csic.es
 
 If you use this corpus, please cite the reference as follows:
 
-``
+```
 @article{2022claramedcorpus,
-  
   title={Building a comparable corpus and a benchmark for Spanish medical text simplification},
-  
   author={Campillos-Llanos, Leonardo and Terroba Reinares, Ana R., and Zakhir Puig, Sofía, and Valverde-Mateos, Ana and Capllonch-Carri{\'o}n},
-  
   title={Procesamiento del Lenguaje Natural},
-  
   volume={69},
-  
   year={2022},
-  
   publisher={Sociedad Espa{\~n}ola para el Procesamiento del Lenguaje Natural}
 
 }
-``
+```
