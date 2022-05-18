@@ -42,7 +42,7 @@ The folder structure is as follows:
 
 ### License
 
-These data is aimed at research and educational purposes. You are not allowed to redistribute the data without permission from the contents owners.
+These data is aimed at research and educational purposes. 
 
 
 ### Contact
