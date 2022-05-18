@@ -62,6 +62,5 @@ If you use this corpus, please cite the reference as follows:
   volume={69},
   year={2022},
   publisher={Sociedad Espa{\~n}ola para el Procesamiento del Lenguaje Natural}
-
 }
 ```
