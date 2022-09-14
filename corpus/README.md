@@ -52,6 +52,8 @@ leonardo.campillos AT csic.es
 
 ## How to cite
 
+The article describing the corpus is [available here](http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/6439).
+
 If you use this corpus, please cite the reference as follows:
 
 ```
@@ -61,6 +63,7 @@ If you use this corpus, please cite the reference as follows:
   title={Procesamiento del Lenguaje Natural},
   volume={69},
   year={2022},
+  pages={189--196},
   publisher={Sociedad Espa{\~n}ola para el Procesamiento del Lenguaje Natural}
 }
 ```
