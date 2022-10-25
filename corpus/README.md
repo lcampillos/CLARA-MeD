@@ -42,7 +42,7 @@ The folder structure is as follows:
 
 ### License
 
-These data is aimed at research and educational purposes. 
+These data are aimed at research and educational purposes. 
 
 
 ### Contact
