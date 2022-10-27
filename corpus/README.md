@@ -5,7 +5,7 @@
 
 The CLARA-MeD corpus version 1 gathers a collection of 24 298 pairs of professional and simplified texts (>96M tokens) for automatic medical text simplification in Spanish.
 
-A parallel corpus with a subset of 3800 sentence pairs of professional and laymen variants (149 862 tokens) is released as a benchmark for medical text simplification. 
+A parallel corpus with a subset of 3800 sentence pairs of professional and laymen variants (149 862 tokens) is released as a benchmark for medical text simplification. **UPDATE**: The parallel corpus is currently available at the [Hugging Face Hub](https://huggingface.co/datasets/lcampillos/CLARA-MeD) 
 
 DISCLAIMER: this corpus was built for research and educational purposes. Because not all contents might be updated when using this resource, no medical decision should be taken from the data here provided. Please, check the current version of each source contents at the corresponding website (see below).
 
