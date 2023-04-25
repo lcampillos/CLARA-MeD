@@ -17,7 +17,7 @@ Criterios de inclusión
 Criterios de exclusión
 
 1. Uso previsto de globulina antitimocítica (ATG), ciclofosfamida postrasplante, sirolimus, micofenolato mofetilo, abatacept o cualquier medicamento aprobado o no aprobado que no sea MTX más CsA o MTX más TAC para la profilaxis de la EICH.
-2.Uso previsto de sueroterapia durante el acondicionamiento, incluyendo ATG y alemtuzumab.
+2. Uso previsto de sueroterapia durante el acondicionamiento, incluyendo ATG y alemtuzumab.
 3. Manipulación ex vivo del injerto principal, incluida la depleción de células T o la selección de CD34+.
 4. Sujetos que hayan recibido un TCMH alogénico previo o receptores de un trasplante de órgano sólido.
 5. Fármacos inmunosupresores para enfermedades concomitantes. Los sujetos deben poder estar sin prednisona (> 10 mg/día) u otros medicamentos inmunosupresores durante al menos 3 días antes del inicio del tratamiento del estudio. Se permite la dosificación fisiológica de sustitución de hidrocortisona.
