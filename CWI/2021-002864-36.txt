@@ -1,0 +1,32 @@
+Ensayo prospectivo, aleatorizado, doble ciego, controlado con placebo y multicéntrico de fase IIb para evaluar la eficacia y seguridad del mocravimod como tratamiento adyuvante y de mantenimiento en la leucemia mieloide aguda (LMA) en pacientes adultos sometidos a un trasplante alogénico de células madre hematopoyéticas (TCMH)
+
+Ensayo de fase IIb controlado con placebo para evaluar la eficacia y seguridad del mocravimod como tratamiento adyuvante y de mantenimiento en la leucemia mieloide aguda (LMA) en pacientes sometidos a un trasplante alogénico de células madre hematopoyéticas (TCMH) (Estudio Mo-TRANS)
+
+Indicación científica: Tratamiento adyuvante y de mantenimiento en la TCMH
+
+Criterios de inclusión
+
+1. Sujetos con diagnóstico de LMA (excluida la leucemia promielocítica aguda) según la clasificación de 2016 de la Organización Mundial de la Salud (OMS) de la LMA y las neoplasias precursoras relacionadas, incluida la LMA secundaria después de una enfermedad hematológica antecedente (por ejemplo, el síndrome mielodisplásico) y la LMA relacionada con la terapia.
+2. Sujetos con LMA de alto riesgo según la European LeukemiaNet (ELN) en RC1, LMA de riesgo intermedio en RC1 si MRDpos, o LMA de cualquier riesgo en RC2. 
+- La remisión completa se define como: < 5% de blastos en la médula por examen morfológico y ausencia de blastos periféricos circulantes y blastos con bastones de Auer; ausencia de enfermedad extramedular; recuento absoluto de neutrófilos ≥ 1,0x109/L (1000/µL); recuento de plaquetas ≥ 100x109/L (100 000/µL). 
+3. Sujetos que tienen previsto someterse a un TCMH alogénico
+4. Esperanza de vida ≥ 6 meses en el momento de la selección.
+5. Estado de rendimiento del Eastern Cooperative Oncology Group (ECOG) de 0 o 1.
+6. Hombre o mujer, edad ≥ 18 años y ≤ 75 años. 
+
+Criterios de exclusión
+
+1. Uso previsto de globulina antitimocítica (ATG), ciclofosfamida postrasplante, sirolimus, micofenolato mofetilo, abatacept o cualquier medicamento aprobado o no aprobado que no sea MTX más CsA o MTX más TAC para la profilaxis de la EICH.
+2.Uso previsto de sueroterapia durante el acondicionamiento, incluyendo ATG y alemtuzumab.
+3. Manipulación ex vivo del injerto principal, incluida la depleción de células T o la selección de CD34+.
+4. Sujetos que hayan recibido un TCMH alogénico previo o receptores de un trasplante de órgano sólido.
+5. Fármacos inmunosupresores para enfermedades concomitantes. Los sujetos deben poder estar sin prednisona (> 10 mg/día) u otros medicamentos inmunosupresores durante al menos 3 días antes del inicio del tratamiento del estudio. Se permite la dosificación fisiológica de sustitución de hidrocortisona.
+6. Requerir tratamientos para la disfunción cardíaca
+7. Sujetos con leucemia promielocítica aguda.
+8. Crisis blástica de leucemia mieloide crónica
+9. Disfunción cardíaca 
+10. Disfunción pulmonar.
+11. Enfermedad hepática significativa o lesión hepática o historia conocida de abuso de alcohol, enfermedad hepática o biliar crónica. Disfunción hepática definida por aspartato aminotransferasa (AST) y/o alanina aminotransferasa (ALT) > 2,5 x límite superior de la normalidad (ULN); o bilirrubina total > 1,5 x ULN
+12. Disfunción renal con aclaramiento de creatinina < 60 mL/min según la fórmula de Cockcroft-Gault. 
+13. Antecedentes de ictus o hemorragia intracraneal en el plazo de 1 año antes la selección.
+14. Infección activa clínicamente significativa (vírica, bacteriana o fúngica) que requiera un tratamiento antimicrobiano continuado y que, a juicio del investigador, represente un riesgo para proceder al TCMH. 
