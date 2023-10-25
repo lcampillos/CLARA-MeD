@@ -1,0 +1,402 @@
+CUI|TECHNICAL_TERM|PATIENT_TERM|SEMANTIC_TYPES|SEMANTIC_GROUP
+C0000503|γ-hidroxibutirato|éxtasis líquido|Organic Chemical;Pharmacologic Substance|CHEM
+C0000608|aac|ácido aminocaproico|Amino Acid, Peptide, or Protein;Pharmacologic Substance|CHEM
+C0000608|ácido e-amino-n-caproico|ácido épsilon-aminocaproico|Amino Acid, Peptide, or Protein;Pharmacologic Substance|CHEM
+C0000726|abd.|abdomen|Body Location or Region|ANAT
+C0000726|abdomen|barriga|Body Location or Region|ANAT
+C0000726|abdominal|del vientre|Body Location or Region|ANAT
+C0000726|ab|abdomen|Body Location or Region|ANAT
+C0000727|aa|abdomen agudo|Sign or Symptom|DISO
+C0000727|abdomen agudo|dolor intenso en el vientre|Sign or Symptom|DISO
+C0000737|dab|dolor abdominal|Sign or Symptom|DISO
+C0000737|dolor abdominal|dolor de barriga|Sign or Symptom|DISO
+C0000768|disgenesia|desarrollo defectuoso|Congenital Abnormality|DISO
+C0000768|malformación|deformidad|Congenital Abnormality|DISO
+C0000833|absceso|infección de tejido con hinchazón y pus|Disease or Syndrome|DISO
+C0000833|abs|absceso|Disease or Syndrome|DISO
+C0000956|acenocumarol|sintrom (medicamento para evitar la coagulación de la sangre y la formación de coágulos)|Organic Chemical;Pharmacologic Substance|CHEM
+C0001041|aco|acetilcolina|Biologically Active Substance;Organic Chemical;Pharmacologic Substance|CHEM
+C0001044|ace|acetilcolinesterasa|Amino Acid, Peptide, or Protein;Enzyme|CHEM
+C0001080|acondroplasia|enanismo|Congenital Abnormality|DISO
+C0001122|acidosis|aumento de la acidez en líquidos y tejidos del cuerpo|Pathologic Function|DISO
+C0001126|atr|acidosis tubular renal|Disease or Syndrome|DISO
+C0001206|acromegalia|la acromegalia es un trastorno metabólico crónico en el que hay excesiva secreción de la hormona del crecimiento y los tejidos del cuerpo aumentan gradualmente|Disease or Syndrome|DISO
+C0001288|acvd|actividad de la vida diaria|Daily or Recreational Activity|ACTI
+C0001288|adl|actividad de la vida diaria|Daily or Recreational Activity|ACTI
+C0001288|avd|actividad de la vida diaria|Daily or Recreational Activity|ACTI
+C0001367|acv|aciclovir|Nucleic Acid, Nucleoside, or Nucleotide;Pharmacologic Substance|CHEM
+C0001339|pa|pancreatitis aguda|Disease or Syndrome|DISO
+C0001344|rinofaringitis|inflamación de la nariz y de la garganta|Disease or Syndrome|DISO
+C0001416|adenitis|inflamación de una glándula|Sign or Symptom|DISO
+C0001418|ac|adenocarcinoma|Neoplastic Process|DISO
+C0001418|adc|adenocarcinoma|Neoplastic Process|DISO
+C0001418|adenoca.|adenocarcinoma|Neoplastic Process|DISO
+C0001430|adenoma|tipo de tumor benigno|Neoplastic Process|DISO
+C0001459|adp|difosfato de adenosina (adenosine diphosphate)|Biologically Active Substance;Nucleic Acid, Nucleoside, or Nucleotide|CHEM
+C0001459|dfa|difosfato de adenosina|Biologically Active Substance;Nucleic Acid, Nucleoside, or Nucleotide|CHEM
+C0001480|atp|trifosfato de adenosina (adenosine triphosphate)|Biologically Active Substance;Nucleic Acid, Nucleoside, or Nucleotide;Pharmacologic Substance|CHEM
+C0001480|tfa|trifosfato de adenosina|Biologically Active Substance;Nucleic Acid, Nucleoside, or Nucleotide;Pharmacologic Substance|CHEM
+C0001511|adhesión|unión anormal de tejidos u órganos|Pathologic Function|DISO
+C0001516|adhesivo|pegamento|Manufactured Object|OBJC
+C0001551|adyuvante|sustancia añadida a una vacuna que refuerza su efecto|Immunologic Factor;Pharmacologic Substance|CHEM
+C0001552|adyuvante|sustancia que contribuye a la acción de otra|Chemical Viewed Functionally|CHEM
+C0001565|sl|sublingual|Functional Concept|CONC
+C0001565|sublingual|debajo de la lengua|Functional Concept|CONC
+C0001577|anexitis|inflamación del ovario y las trompas de Falopio|Disease or Syndrome|DISO
+C0001578|adolescencia|periodo entre los 10 y 20 años|Temporal Concept|CONC
+C0001617|corticoide|hormona de la corteza suprarrenal o medicamento que baja la inflamación, usado para tratar la alergia, el asma o la artritis|Hormone;Organic Chemical;Pharmacologic Substance|CHEM
+C0001622|hipercortisolismo|estado causado por el cuerpo que produce más cortisol del que necesita debido a los adenomas suprarrenales secretores de cortisol|Disease or Syndrome|DISO
+C0001629|ms|médula suprarrenal|Body Part, Organ, or Organ Component|ANAT
+C0001637|adrenérgico|medicamento que tiene efectos semejantes a la adrenalina (que regula la frecuencia del latido del corazón o de la respiración, o la presión arterial)|Pharmacologic Substance|CHEM
+C0001637|simpaticomimético|sustancia que estimula el sistema nervioso simpático (que regula la frecuencia del latido del corazón o de la respiración, o la presión arterial)|Pharmacologic Substance|CHEM
+C0001644|betamimético|sustancia que imita la acción de los receptores adrenérgicos beta, que se usan para detener el parto prematuro|Pharmacologic Substance|CHEM
+C0001645|betabloqueador|medicamento para varias enfermedades del corazón (como las arritmias) y la presión arterial|Pharmacologic Substance|CHEM
+C0001655|acth|hormona adrenocorticotropa, producida por la hipófisis y usada para tratar problemas de riñones y los espasmos de la epilepsia (adrenocorticotropic hormone)|Amino Acid, Peptide, or Protein;Hormone;Pharmacologic Substance|CHEM
+C0001655|hormona adrenocorticotropa|hormona producida por la hipófisis y usada para tratar problemas de riñones y los espasmos de la epilepsia|Amino Acid, Peptide, or Protein;Hormone;Pharmacologic Substance|CHEM
+C0001674|adsorción|fijación a una superficie|Natural Phenomenon or Process|PHEN
+C0001707|aerofagia|acción de tragar aire|Mental or Behavioral Dysfunction|DISO
+C0001712|aerosol|líquido compuesto de sustancias farmacológicas para ser inhalado|Manufactured Object|OBJC
+C0001712|spray|pulverizador|Manufactured Object|OBJC
+C0001768|agammaglobulinemia|déficit de gammaglobulina en la sangre|Disease or Syndrome|DISO
+C0001792|anciano|abuelo|Population Group|LIVB
+C0001824|agranulocitosis|disminución o ausencia de los glóbulos blancos granulados de la sangre|Disease or Syndrome|DISO
+C0001824|granulocitopenia|disminución anormal de granulocitos, que son glóbulos blancos granulados de la sangre|Disease or Syndrome|DISO
+C0001899|a.l.t.|alanina transaminasa|Amino Acid, Peptide, or Protein;Enzyme|CHEM
+C0001899|alt|alanina transaminasa|Amino Acid, Peptide, or Protein;Enzyme|CHEM
+C0001899|sgpt|alanina transaminasa sérica (serum glutamate pyruvate transaminase)|Amino Acid, Peptide, or Protein;Enzyme|CHEM
+C0001899|tgp|transaminasa glutámico-pirúvica|Amino Acid, Peptide, or Protein;Enzyme|CHEM
+C0001924|albúmina|proteína principal en la sangre|Amino Acid, Peptide, or Protein;Biologically Active Substance|CHEM
+C0001957|dt|delirium tremens|Disease or Syndrome|DISO
+C0001962|alcohólico|enólico|Organic Chemical;Pharmacologic Substance|CHEM
+C0001962|etanol|alcohol|Organic Chemical;Pharmacologic Substance|CHEM
+C0001962|etílico|alcohólico|Organic Chemical;Pharmacologic Substance|CHEM
+C0001967|bebida alcohólica|alcohol|Food|OBJC
+C0001973|alcoholismo|dependencia de las bebidas alcohólicas|Mental or Behavioral Dysfunction|DISO
+C0001973|alcohólico|enólico|Mental or Behavioral Dysfunction|DISO
+C0001975|alcohólico|enólico|Organic Chemical;Pharmacologic Substance|CHEM
+C0001975|etílico|enólico|Organic Chemical;Pharmacologic Substance|CHEM
+C0002055|base|sustancia que forma una sal al combinarse con un ácido|Inorganic Chemical|CHEM
+C0002059|alp|fosfatasa alcalina (alkaline phosphatase)|Amino Acid, Peptide, or Protein;Enzyme|CHEM
+C0002059|fal|fosfatasa alcalina|Amino Acid, Peptide, or Protein;Enzyme|CHEM
+C0002059|fa|fosfatasa alcalina|Amino Acid, Peptide, or Protein;Enzyme|CHEM
+C0002059|ffaa|fosfatasas alcalinas (proteínas de la sangre que se miden para detectar enfermedades del hígado, el riñón o los huesos)|Amino Acid, Peptide, or Protein;Enzyme|CHEM
+C0002062|alcaloide|sustancia vegetal básica|Organic Chemical;Pharmacologic Substance|CHEM
+C0002063|alcalosis|disminución de la acidez de sangre y tejidos|Disease or Syndrome|DISO
+C0002092|alergeno|sustancia que provoca reacciones alérgicas|Immunologic Factor|CHEM
+C0002092|alérgeno|sustancia que provoca reacciones alérgicas|Immunologic Factor|CHEM
+C0002111|alergología|alergia|Biomedical Occupation or Discipline|OCCU
+C0002170|alopecia|caída general o parcial de pelos o del cabello|Disease or Syndrome|DISO
+C0002170|calvo|pelado|Disease or Syndrome|DISO
+C0002171|alopecia areata|pérdida de cabello en el cuero cabelludo|Disease or Syndrome|DISO
+C0002199|ifn-α|alfa interferón|Amino Acid, Peptide, or Protein;Immunologic Factor;Pharmacologic Substance|CHEM
+C0002199|inf-α|alfa interferón|Amino Acid, Peptide, or Protein;Immunologic Factor;Pharmacologic Substance|CHEM
+C0002199|interferón α|alfa interferón|Amino Acid, Peptide, or Protein;Immunologic Factor;Pharmacologic Substance|CHEM
+C0002210|a-fetoproteína|alfafetoproteína|Amino Acid, Peptide, or Protein;Biologically Active Substance|CHEM
+C0002210|afp|alfafetoproteína|Amino Acid, Peptide, or Protein;Biologically Active Substance|CHEM
+C0002210|alfa-fp|alfafetoproteína|Amino Acid, Peptide, or Protein;Biologically Active Substance|CHEM
+C0002210|α fp|alfafetoproteína|Amino Acid, Peptide, or Protein;Biologically Active Substance|CHEM
+C0002210|α-ftp|alfafetoproteína|Amino Acid, Peptide, or Protein;Biologically Active Substance|CHEM
+C0002395|dsta|demencia senil de tipo alzheimer|Disease or Syndrome|DISO
+C0002395|dta|demencia de tipo alzheimer|Disease or Syndrome|DISO
+C0002395|ea|enfermedad de alzheimer|Disease or Syndrome|DISO
+C0002395|enfermedad de alzheimer|alzhéimer|Disease or Syndrome|DISO
+C0002418|ambliopía|ojo vago|Disease or Syndrome|DISO
+C0002418|amblíope|con ojo vago|Disease or Syndrome|DISO
+C0002453|amenorrea|ausencia de menstruación|Disease or Syndrome|DISO
+C0002475|mmc|mitomicina c|Antibiotic;Organic Chemical|CHEM
+C0002475|mtc|mitomicina c|Antibiotic;Organic Chemical|CHEM
+C0002508|amina|compuesto químico derivado del amoniaco|Organic Chemical|CHEM
+C0002520|aa|aminoácido|Amino Acid, Peptide, or Protein;Biologically Active Substance;Pharmacologic Substance|CHEM
+C0002594|transaminasa|tipo de enzima que se analiza para el diagnóstico de enfermedades del hígado|Amino Acid, Peptide, or Protein;Enzyme|CHEM
+C0002622|amnesia|pérdida de memoria|Disease or Syndrome; Mental or Behavioral Dysfunction|DISO
+C0002627|amniocentesis|amnio|Diagnostic Procedure|PROC
+C0002630|amnios|bolsa que contiene al feto y al líquido que lo rodea durante el embarazo|Embryonic Structure|ANAT
+C0002630|bolsa de las aguas|bolsa que contiene el feto y el líquido que lo rodea durante el embarazo|Embryonic Structure|ANAT
+C0002630|ma|membrana amniótica|Embryonic Structure|ANAT
+C0002645|amoxi|amoxicilina|Antibiotic;Organic Chemical|CHEM
+C0002645|amox|amoxicilina|Antibiotic;Organic Chemical|CHEM
+C0002645|amo|amoxicilina|Antibiotic;Organic Chemical|CHEM
+C0002645|p-hidroxiampicilina|hidroxiampicilina|Antibiotic;Organic Chemical|CHEM
+C0002658|anfetamina|anfeta|Biologically Active Substance;Organic Chemical;Pharmacologic Substance|CHEM
+C0002667|anfetamina|anfeta|Biologically Active Substance;Organic Chemical;Pharmacologic Substance|CHEM
+C0002679|anb|anfotericina b|Antibiotic;Organic Chemical|CHEM
+C0002680|ampc|aminobencilpenicilina|Antibiotic;Organic Chemical|CHEM
+C0002680|amp|aminobencilpenicilina|Antibiotic;Organic Chemical|CHEM
+C0002680|camp|aminobencilpenicilina|Antibiotic;Organic Chemical|CHEM
+C0002771|analgésico|calmante|Hazardous or Poisonous Substance;Organic Chemical;Pharmacologic Substance|CHEM
+C0002778|análisis|analítica|Laboratory Procedure|PROC
+C0002792|anafiláctico|de una reacción alérgica general violenta|Pathologic Function|DISO
+C0002831|anquilostomiasis|anemia de los mineros|Disease or Syndrome|DISO
+C0002844|andrógeno|hormona que produce caracteres masculinos|Hormone;Pharmacologic Substance|CHEM
+C0002845|anabólico|sustancia química que promueve la transformación de alimentos en sustancia corporal|Hormone;Pharmacologic Substance|CHEM
+C0002871|anemia|escasez de sangre o deficiencia en la sangre de glóbulos rojos|Disease or Syndrome|DISO
+C0002874|anemia aplástica|formación insuficiente de células de la sangre|Disease or Syndrome|DISO
+C0002875|talasemia β mayor|beta-talasemia mayor|Disease or Syndrome|DISO
+C0002875|tm|talasemia mayor|Disease or Syndrome|DISO
+C0002893|ar|anemia refractaria|Disease or Syndrome|DISO
+C0002913|anestesia epidural|epidural|Therapeutic or Preventive Procedure|PROC
+C0002915|a. gral.|anestesia general|Therapeutic or Preventive Procedure|PROC
+C0002915|ag|anestesia general|Therapeutic or Preventive Procedure|PROC
+C0002930|anestesiología|anestesia|Biomedical Occupation or Discipline|OCCU
+C0002932|anestésico|medicamento que produce anestesia|Pharmacologic Substance|CHEM
+C0002940|aneurisma|dilatación de una arteria o del corazón|Disease or Syndrome|DISO
+C0002962|angina de pecho|principio de infarto|Sign or Symptom|DISO
+C0002962|anginoso|de una angina|Sign or Symptom|DISO
+C0002962|ci|cardiopatía isquémica|Sign or Symptom|DISO
+C0002965|ai|angina inestable|Disease or Syndrome|DISO
+C0002965|ar|angina de reposo|Disease or Syndrome|DISO
+C0002986|deficiencia de gla|deficiencia de galactosidasa|Disease or Syndrome|DISO
+C0002986|ef|enfermedad de fabry|Disease or Syndrome|DISO
+C0002986|enfermedad de fabry|enfermedad rara y hereditaria causada por un defecto genético que causa acumulación de sustancias grasas. los síntomas incluyen dolor de estómago y daño a órganos vitales|Disease or Syndrome|DISO
+C0002986|fd|enfermedad de fabry (Fabry disease)|Disease or Syndrome|DISO
+C0002994|angioneurótico|del angioedema (acumulación de líquido profunda en la piel y las mucosas respiratorias y digestivas)|Pathologic Function|DISO
+C0002994|edema angioneurótico|forma de edema violento y breve|Pathologic Function|DISO
+C0003012|at iii|angiotensina iii|Amino Acid, Peptide, or Protein;Biologically Active Substance|CHEM
+C0003018|at|angiotensina|Amino Acid, Peptide, or Protein;Biologically Active Substance;Pharmacologic Substance|CHEM
+C0003028|diaforesis|sudor abundante|Disease or Syndrome|DISO
+C0003074|ag|anión gap|Clinical Attribute|PHYS
+C0003075|aniónico|con carga negativa|Element, Ion, or Isotope|CHEM
+C0003076|aniridia|ausencia de iris, la parte del ojo con el color|Congenital Abnormality|DISO
+C0003079|anisocoria|desigualdad del diámetro de las pupilas|Finding|DISO
+C0003086|tarso|raíz del pie|Body Location or Region|ANAT
+C0003123|anorexia|pérdida del apetito|Disease or Syndrome|DISO
+C0003125|anorexia nerviosa|anorexia|Mental or Behavioral Dysfunction|DISO
+C0003126|anosmia|pérdida o disminución del sentido del olfato|Sign or Symptom|DISO
+C0003130|anoxia|insuficiencia de oxígeno en los tejidos|Pathologic Function|DISO
+C0003138|antiácido|sustancia para tratar la acidez y la indigestión|Pharmacologic Substance|CHEM
+C0003151|ca|cámara anterior|Body Part, Organ, or Organ Component|ANAT
+C0003158|antihelmíntico|que destruye los gusanos intestinales|Pharmacologic Substance|CHEM
+C0003164|antracosilicosis|asma de los mineros|Disease or Syndrome|DISO
+C0003165|antracosis|enfermedad de los mineros|Disease or Syndrome|DISO
+C0003195|antiarrítmico|medicamento para tratar el latido irregular del corazón|Pharmacologic Substance|CHEM
+C0003204|antiinfeccioso|que combate la infección|Pharmacologic Substance|CHEM
+C0003204|antimicrobiano|que impide el desarrollo de los microbios|Pharmacologic Substance|CHEM
+C0003204|antiséptico|desinfectante|Pharmacologic Substance|CHEM
+C0003209|antiflogístico|que combate la inflamación|Pharmacologic Substance|CHEM
+C0003209|antiinflamatorio|que impide o detiene la inflamación|Pharmacologic Substance|CHEM
+C0003211|aine|antiinflamatorio no esteroideo|Pharmacologic Substance|CHEM
+C0003232|antibacteriano|que destruye las bacterias|Antibiotic|CHEM
+C0003232|atb|antibiótico|Antibiotic|CHEM
+C0003241|ac|anticuerpo|Amino Acid, Peptide, or Protein;Immunologic Factor|CHEM
+C0003241|anticuerpo|proteína del sistema inmune que detecta antígenos específicos (sustancias contra las que reaccionan las defensas)|Amino Acid, Peptide, or Protein;Immunologic Factor|CHEM
+C0003243|aan|anticuerpo antinuclear|Amino Acid, Peptide, or Protein;Immunologic Factor|CHEM
+C0003243|ana|anticuerpo antinuclear|Amino Acid, Peptide, or Protein;Immunologic Factor|CHEM
+C0003243|fan|factor antinuclear|Amino Acid, Peptide, or Protein;Immunologic Factor|CHEM
+C0003250|acmo|anticuerpo monoclonal|Amino Acid, Peptide, or Protein;Immunologic Factor|CHEM
+C0003280|anticoagulante|sustancia que impide la coagulación|Pharmacologic Substance|CHEM
+C0003286|anticonvulsivo|sustancia que evita o reduce las convulsiones|Pharmacologic Substance|CHEM
+C0003289|antidepresivo|sustancia que alivia la depresión|Pharmacologic Substance|CHEM
+C0003292|astringente|que produce sequedad en la piel|Pharmacologic Substance|CHEM
+C0003295|antídoto|contraveneno|Pharmacologic Substance|CHEM
+C0003297|antiemético|medicamento contra los vómitos|Pharmacologic Substance|CHEM
+C0003299|antiepiléptico|medicamento para tratar la epilepsia|Pharmacologic Substance|CHEM
+C0003304|antifibrinolítico|medicamento que evita la disolución de los coágulos de sangre|Pharmacologic Substance|CHEM
+C0003308|antifúngico|que destruye los hongos|Pharmacologic Substance|CHEM
+C0003308|antimicótico|que destruye los hongos|Pharmacologic Substance|CHEM
+C0003320|ag|antígeno|Immunologic Factor|CHEM
+C0003320|antígeno|sustancia considerada como extraña por el organismo y que desencadena una respuesta de las defensas|Immunologic Factor|CHEM
+C0003364|antihipertensivo|medicamento que disminuye la presión sanguínea|Pharmacologic Substance|CHEM
+C0003364|antihipertensor|medicamento que disminuye la presión sanguínea|Pharmacologic Substance|CHEM
+C0003379|antimitótico|que impide la división y crecimiento de células|Pharmacologic Substance|CHEM
+C0003392|antineoplásico|que impide el crecimiento de tumores|Organic Chemical;Pharmacologic Substance|CHEM
+C0003392|antiproliferativo|que actúa en contra del crecimiento y la división de células|Organic Chemical;Pharmacologic Substance|CHEM
+C0003392|antitumorígeno|que contrarresta la formación de tumores|Organic Chemical;Pharmacologic Substance|CHEM
+C0003392|quimioterápico|medicamento capaz de atacar a los microbios parasitarios o a las células de un cáncer|Organic Chemical;Pharmacologic Substance|CHEM
+C0003402|antioxidante|que previene el deterioro de una sustancia por oxidación|Pharmacologic Substance|CHEM
+C0003417|antipruriginoso|que impide el escozor o picor|Pharmacologic Substance|CHEM
+C0003419|antipirético|que reduce la fiebre|Pharmacologic Substance|CHEM
+C0003424|antiséptico|procedimiento que desinfecta y elimina los gérmenes|Therapeutic or Preventive Procedure|PROC
+C0003436|aelo|antiestreptolisina o|Amino Acid, Peptide, or Protein;Immunologic Factor|CHEM
+C0003436|aslo|antiestreptolisina o|Amino Acid, Peptide, or Protein;Immunologic Factor|CHEM
+C0003436|aso|antiestreptolisina o|Amino Acid, Peptide, or Protein;Immunologic Factor|CHEM
+C0003436|asto|antiestreptolisina o|Amino Acid, Peptide, or Protein;Immunologic Factor|CHEM
+C0003438|at iii|antitrombina iii (sustancia que evita la coagulación de la sangre)|Amino Acid, Peptide, or Protein;Pharmacologic Substance|CHEM
+C0003445|antitoxina|anticuerpo que actúa como contraveneno|Immunologic Factor;Pharmacologic Substance|CHEM
+C0003448|tuberculostático|medicamento que anula el crecimiento del bacilo de la tuberculosis|Pharmacologic Substance|CHEM
+C0003449|antitusivo|medicamento que calma o suprime la tos|Pharmacologic Substance|CHEM
+C0003451|antiviral|que destruye o impide el desarrollo de los virus|Pharmacologic Substance|CHEM
+C0003460|anuria|ausencia de eliminación de orina|Disease or Syndrome|DISO
+C0003461|anal|del ano|Body Part, Organ, or Organ Component|ANAT
+C0003483|ao|aorta|Body Part, Organ, or Organ Component|ANAT
+C0003507|eao|estenosis aórtica|Disease or Syndrome|DISO
+C0003537|afasia|imposibilidad o dificultad para hablar|Mental or Behavioral Dysfunction|DISO
+C0003578|apnea|interrupción temporal de la respiración|Pathologic Function|DISO
+C0003706|aracnodactilia|dedos de araña|Congenital Abnormality|DISO
+C0003765|arg|arginina|Amino Acid, Peptide, or Protein;Biologically Active Substance;Pharmacologic Substance|CHEM
+C0003779|arg-vasopresina|arginina-vasopresina|Amino Acid, Peptide, or Protein;Hormone;Pharmacologic Substance|CHEM
+C0003779|avp|arginina-vasopresina|Amino Acid, Peptide, or Protein;Hormone;Pharmacologic Substance|CHEM
+C0003811|arritmia|latido irregular del corazón|Finding|DISO
+C0003842|arterial|de las arterias|Body Part, Organ, or Organ Component|ANAT
+C0003844|arteriografía|radiografía de algunas arterias|Diagnostic Procedure|PROC
+C0003847|arteriolar|de las ramificaciones de las arterias|Body Part, Organ, or Organ Component|ANAT
+C0003850|arterioesclerosis|artereoesclerosis|Disease or Syndrome|DISO
+C0003851|aeo|arterioesclerosis obliterante|Disease or Syndrome|DISO
+C0003851|ao|arterioesclerosis obliterante|Disease or Syndrome|DISO
+C0003851|aso|arterioesclerosis obliterante|Disease or Syndrome|DISO
+C0003855|fav|fístula arteriovenosa|Anatomical Abnormality|DISO
+C0003862|artralgia|dolor de las articulaciones|Sign or Symptom|DISO
+C0003864|artritis|inflamación de una o más articulaciones|Disease or Syndrome|DISO
+C0003872|artritis psoriásica|forma de artritis que puede causar hinchazón, rigidez y dolor en las articulaciones, y que afecta a algunas personas con psoriasis (piel con escamas)|Disease or Syndrome|DISO
+C0003873|artritis reumatoide|enfermedad a través de la cual la inflamación e hinchazón afectan a las articulaciones causando dolor|Disease or Syndrome|DISO
+C0003962|ascitis|acumulación de líquido en el vientre|Disease or Syndrome;Finding|DISO
+C0003968|vitamina c|nutriente que el cuerpo necesita en cantidades pequeñas para funcionar y mantenerse sano|Organic Chemical;Pharmacologic Substance;Vitamin|CHEM
+C0003974|asepsia|prevención de infección|Therapeutic or Preventive Procedure|PROC
+C0003974|aséptico|sin gérmenes|Therapeutic or Preventive Procedure|PROC
+C0004002|asat|aspartato-aminotransferasa|Amino Acid, Peptide, or Protein;Enzyme|CHEM
+C0004002|ast|aspartato transaminasa|Amino Acid, Peptide, or Protein;Enzyme|CHEM
+C0004002|got|transaminasa glutámico-oxaloacética (glutamic oxaloacetic transaminase)|Amino Acid, Peptide, or Protein;Enzyme|CHEM
+C0004002|tgo|transaminasa glutámico-oxaloacética|Amino Acid, Peptide, or Protein;Enzyme|CHEM
+C0004002|transaminasa a|transaminasa aspártica|Amino Acid, Peptide, or Protein;Enzyme|CHEM
+C0004048|aspiración|acción de inhalar o aspirar gases o vapores|Organism Function|PHYS
+C0004048|inhalación|aspiración de gases o vapores|Organism Function|PHYS
+C0004048|inspiración|entrada de aire en los pulmones|Organism Function|PHYS
+C0004057|ácido acetilsalicílico|aspirina|Organic Chemical;Pharmacologic Substance|CHEM
+C0004093|astenia|cansancio físico o falta de fuerza intensa|Sign or Symptom|DISO
+C0004095|astenopía|fatiga visual|Disease or Syndrome|DISO
+C0004096|asma|enfermedad de las vías respiratorias de los pulmones|Disease or Syndrome|DISO
+C0004110|astringente|que produce sequedad en la piel|Pharmacologic Substance|CHEM
+C0004134|ataxia|pérdida del equilibrio, dificultad para caminar, falta de coordinación y habla lenta|Sign or Symptom|DISO
+C0004153|ateroesclerosis|arterioesclerosis|Disease or Syndrome|DISO
+C0004153|ateromatosis|depósito de placas de grasa en las arterias|Disease or Syndrome|DISO
+C0004158|atetosis|movimiento involuntario y no coordinado en los brazos y la cara|Sign or Symptom|DISO
+C0004170|c1|primera vértebra cervical|Body Part, Organ, or Organ Component|ANAT
+C0004170|vértebra c1|primera vértebra cervical|Body Part, Organ, or Organ Component|ANAT
+C0004239|flau|aleteo auricular (flutter auricular)|Pathologic Function|DISO
+C0004245|bav|bloqueo auriculoventricular|Disease or Syndrome|DISO
+C0004245|bloqueo a-v|bloqueo auriculoventricular|Disease or Syndrome|DISO
+C0004245|bloqueo cardiaco av|bloqueo cardiaco auriculoventricular|Disease or Syndrome|DISO
+C0004339|auscultación|acción de escuchar los ruidos en el interior de un organismo, usando un estetoscopio|Diagnostic Procedure|PROC
+C0004364|eai|enfermedad autoinmunitaria|Disease or Syndrome|DISO
+C0004388|neurovegetativo|del sistema nervioso vegetativo (que controla los órganos internos y las funciones vitales básicas)|Body System|ANAT
+C0004454|ax.|axila|Body Location or Region|ANAT
+C0004454|axila|sobaco|Body Location or Region|ANAT
+C0004457|c2|segunda vértebra cervical|Body Part, Organ, or Organ Component|ANAT
+C0004457|vértebra c2|segunda vértebra cervical|Body Part, Organ, or Organ Component|ANAT
+C0004509|azoospermia|falta de espermatozoides en el semen|Disease or Syndrome|DISO
+C0004583|andador|tacataca|Medical Device|DEVI
+C0004587|bacilo|bacteria en forma de bastoncillo|Bacterium|LIVB
+C0004600|dorsal|de la espalda o el dorso|Body Location or Region|ANAT
+C0004606|retinopatía diabética no proliferativa|etapa temprana de una condición médica en la que se produce daño en la retina debido a la diabetes mellitus (DM)|Disease or Syndrome|DISO
+C0004610|bacteriemia|presencia de bacterias en la sangre|Disease or Syndrome|DISO
+C0004623|infección bacteriana|infección por bacterias|Disease or Syndrome|DISO
+C0004635|bactericida|sustancia que destruye las bacterias|Antibiotic|CHEM
+C0004690|balanitis|inflamación del glande en el pene|Disease or Syndrome|DISO
+C0004749|ba|bario|Element, Ion, or Isotope|CHEM
+C0004799|mb|membrana basal|Tissue|ANAT
+C0005139|be|berilio|Element, Ion, or Isotope;Hazardous or Poisonous Substance|CHEM
+C0005367|co3h|bicarbonato|Inorganic Chemical;Pharmacologic Substance|CHEM
+C0005367|hco3|bicarbonato|Inorganic Chemical;Pharmacologic Substance|CHEM
+C0005388|biliar|de la bilis|Body Substance|ANAT
+C0005400|biliar|de la vesícula biliar|Body Part, Organ, or Organ Component|ANAT
+C0005411|atresia biliar|trastorno hepático de los niños en el que uno o más conductos biliares son anormalmente estrechos, están bloqueados o están ausentes|Congenital Abnormality|DISO
+C0005437|bb|bilirrubina|Biologically Active Substance;Organic Chemical|CHEM
+C0005437|bil.|bilirrubina|Biologically Active Substance;Organic Chemical|CHEM
+C0005437|br|bilirrubina|Biologically Active Substance;Organic Chemical|CHEM
+C0005482|biodegradación|transformación de sustancias en compuestos simples y no dañinos, generalmente por microorganismos|Natural Phenomenon or Process|PHEN
+C0005558|biopsia|extracción en el individuo vivo de un fragmento de órgano o de tumor para examinarlo con microscopio|Diagnostic Procedure|PROC
+C0005558|bp|biopsia|Diagnostic Procedure|PROC
+C0005558|bx|biopsia|Diagnostic Procedure|PROC
+C0005576|biotransformación|trasformación química de un compuesto en el organismo|Organism Function|PHYS
+C0005586|pmd|psicosis maniacodepresiva|Mental or Behavioral Dysfunction|DISO
+C0005586|tab|trastorno bipolar|Mental or Behavioral Dysfunction|DISO
+C0005615|ncto.|nacimiento|Organism Function|PHYS
+C0005615|parto|alumbramiento|Organism Function|PHYS
+C0005642|bi|bismuto|Element, Ion, or Isotope|CHEM
+C0005658|mordedura|bocado|Injury or Poisoning|DISO
+C0005682|vejiga urinaria|vejiga de la orina|Body Part, Organ, or Organ Component|ANAT
+C0005683|cálculo vesical|piedra en la vejiga|Disease or Syndrome|DISO
+C0005740|bleo.|bleomicina|Amino Acid, Peptide, or Protein;Antibiotic|CHEM
+C0005741|blefaritis|inflamación del borde de los párpados|Disease or Syndrome|DISO
+C0005758|bullar|con bullas o ampollas|Pathologic Function|DISO
+C0005778|coagulación|formación de coágulos de sangre|Organ or Tissue Function|PHYS
+C0005800|gasometría arterial|análisis de los gases en la sangre|Laboratory Procedure|PROC
+C0005821|plaq|plaqueta|Cell|ANAT
+C0005821|plq|plaqueta|Cell|ANAT
+C0005823|pa.|presión arterial|Organism Function|PHYS
+C0005823|pa|presión arterial|Organism Function|PHYS
+C0005823|presión arterial|tensión|Organism Function|PHYS
+C0005823|ta|tensión arterial|Organism Function|PHYS
+C0005823|tensión|presión|Organism Function|PHYS
+C0005824|pa.|presión arterial|Health Care Activity|PROC
+C0005824|pa|presión arterial|Health Care Activity|PROC
+C0005824|ta|tensión arterial|Health Care Activity|PROC
+C0005847|vascular|de los vasos sanguíneos|Body Part, Organ, or Organ Component|ANAT
+C0005862|southern blot|análisis de laboratorio del adn|Molecular Biology Research Technique|PROC
+C0005863|wb|western blot|Laboratory Procedure;Molecular Biology Research Technique|PROC
+C0005863|western blot|análisis de laboratorio de proteínas y anticuerpos|Laboratory Procedure;Molecular Biology Research Technique|PROC
+C0005874|rubor|enrojecimiento|Sign or Symptom|DISO
+C0005886|constitucional|de la constitución de un individuo|Organism Attribute|PHYS
+C0005889|humoral|de los líquidos del cuerpo|Body Substance|ANAT
+C0005902|asc|área de superficie corporal|Organism Attribute|PHYS
+C0005902|sc|superficie corporal|Organism Attribute|PHYS
+C0005903|ta|temperatura|Organism Attribute|PHYS
+C0005903|tra|temperatura|Organism Attribute|PHYS
+C0005903|tª|temperatura|Organism Attribute|PHYS
+C0005905|termorregulación|regulación del calor o de la temperatura|Organism Function|PHYS
+C0005953|mo|médula ósea|Tissue|ANAT
+C0005953|médula ósea|tuétano|Tissue|ANAT
+C0006104|encéfalo|sesos|Body Part, Organ, or Organ Component|ANAT
+C0006107|conmoción|golpe o sacudida violenta|Injury or Poisoning|DISO
+C0006111|encefalopatía|enfermedad que afecta al funcionamiento del cerebro|Disease or Syndrome|DISO
+C0006114|edema cerebral|congestión cerebral|Pathologic Function|DISO
+C0006141|mamario|de la mama|Body Part, Organ, or Organ Component|ANAT
+C0006141|mama|seno|Body Part, Organ, or Organ Component|ANAT
+C0006142|cáncer de mama|cáncer de pecho|Neoplastic Process|DISO
+C0006147|amamantar|dar el pecho|Organism Function|PHYS
+C0006147|lact.|lactancia|Organism Function|PHYS
+C0006147|lactación|amamantamiento|Organism Function|PHYS
+C0006147|lm|lactancia materna|Organism Function|PHYS
+C0006255|bronquial|de los bronquios|Body Part, Organ, or Organ Component|ANAT
+C0006266|bne|broncoespasmo|Disease or Syndrome|DISO
+C0006266|broncoespasmo|contracción de los bronquios que causa una sensación de ahogo|Disease or Syndrome|DISO
+C0006267|bronquiectasia|enfermedad crónica inflamatoria de las vías aéreas con dilatación de los bronquios|Disease or Syndrome|DISO
+C0006277|bronquitis|inflamación de los bronquios|Disease or Syndrome|DISO
+C0006280|bd|broncodilatador|Pharmacologic Substance|CHEM
+C0006285|bronconeumonía|inflamación difusa de los pulmones|Disease or Syndrome|DISO
+C0006318|soplo|vibración que se oye por auscultación|Finding|DISO
+C0006325|bruxismo|rechinar de dientes|Mental or Behavioral Dysfunction|DISO
+C0006382|hh|haz de his|Body Part, Organ, or Organ Component|ANAT
+C0006384|brhh|bloqueo de rama del haz de his|Disease or Syndrome|DISO
+C0006413|lb|leucemia de burkitt|Neoplastic Process|DISO
+C0006444|bursitis|inflamación de la bolsa de una articulación|Disease or Syndrome|DISO
+C0006497|nalga|cachete|Body Location or Region|ANAT
+C0006560|pcr|proteína c-reactiva|Amino Acid, Peptide, or Protein;Immunologic Factor|CHEM
+C0006625|caquexia|adelgazamiento extremo y debilidad general|Sign or Symptom|DISO
+C0006625|caquéctico|malnutrido|Sign or Symptom|DISO
+C0006629|cadáver|muerto|Anatomical Structure|ANAT
+C0006655|calcáneo|hueso del talón|Body Part, Organ, or Organ Component|ANAT
+C0006668|ct|calcitonina|Amino Acid, Peptide, or Protein;Hormone;Pharmacologic Substance|CHEM
+C0006668|tct|tirocalcitonina|Amino Acid, Peptide, or Protein;Hormone;Pharmacologic Substance|CHEM
+C0006675|ca|calcio|Biologically Active Substance;Element, Ion, or Isotope;Pharmacologic Substance|CHEM
+C0006701|hidróxido de calcio|cal apagada|Inorganic Chemical;Pharmacologic Substance|CHEM
+C0006736|cálculo urinario|piedra en la orina|Body Substance|ANAT
+C0006736|cálculo|piedra|Body Substance|ANAT
+C0006767|callo|dureza|Tissue|ANAT
+C0006826|cáncer|enfermedad con un crecimiento incontrolado de células malignas en el cuerpo que pueden propagarse desde el sitio original a un sitio distante|Neoplastic Process|DISO
+C0006840|candidiasis|infección por un hongo del género Cándida|Disease or Syndrome|DISO
+C0006849|candidiasis oral|infección por un hongo que causa placas blancas y algodonosas en la boca|Disease or Syndrome|DISO
+C0006901|capilar|vaso más pequeño que transporta la sangre|Body Part, Organ, or Organ Component|ANAT
+C0006983|cmz|carbimazol|Organic Chemical;Pharmacologic Substance|CHEM
+C0006983|cz|carbimazol|Organic Chemical;Pharmacologic Substance|CHEM
+C0007004|hidrato de carbono|hidrato|Organic Chemical|CHEM
+C0007018|co|monóxido de carbono|Hazardous or Poisonous Substance;Inorganic Chemical|CHEM
+C0007078|ántrax|inflamación de la piel con pus|Disease or Syndrome|DISO
+C0007082|cea|antígeno carcinoembrionario (carcinoembryonic antigen)|Amino Acid, Peptide, or Protein;Immunologic Factor|CHEM
+C0007082|ce|carcinoembrionario|Amino Acid, Peptide, or Protein;Immunologic Factor|CHEM
+C0007090|carcinogénico|que provoca o produce cáncer|Hazardous or Poisonous Substance|CHEM
+C0007095|tc|tumor carcinoide|Neoplastic Process|DISO
+C0007097|carcinoma|tumor maligno|Neoplastic Process|DISO
+C0007097|ca|carcinoma|Neoplastic Process|DISO
+C0007097|epitelioma|tumor de la piel o de la mucosa|Neoplastic Process|DISO
+C0007117|cbc|carcinoma basocelular|Neoplastic Process|DISO
+C0007117|eb|epitelioma basocelular|Neoplastic Process|DISO
+C0007124|cdis|carcinoma ductal in situ|Neoplastic Process|DISO
+C0007124|cid|carcinoma intraductal|Neoplastic Process|DISO
+C0007124|dci|carcinoma ductal in situ (ductal carcinoma in situ)|Neoplastic Process|DISO
+C0007131|cáncer de pulmón de células no pequeñas|el tipo más común de cáncer de pulmón; por lo general, crece y se propaga más lentamente que el cáncer de pulmón de células pequeñas|Neoplastic Process|DISO
+C0007131|cáncer de pulmón no microcítico|cáncer de pulmón de célula no pequeña|Neoplastic Process|DISO
+C0007134|adenocarcinoma renal|cáncer de riñón|Neoplastic Process|DISO
+C0007134|carcinoma de células renales|cánceres de riñón|Neoplastic Process|DISO
+C0007137|ca epidermoide|carcinoma epidermoide|Neoplastic Process|DISO
+C0007137|caep|carcinoma espinocelular|Neoplastic Process|DISO
+C0007137|cec|carcinoma escamocelular|Neoplastic Process|DISO
