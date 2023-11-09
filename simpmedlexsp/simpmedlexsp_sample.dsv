@@ -72,7 +72,7 @@ C0001962|etanol|alcohol|Organic Chemical;Pharmacologic Substance|CHEM
 C0001962|etílico|alcohólico|Organic Chemical;Pharmacologic Substance|CHEM
 C0001967|bebida alcohólica|alcohol|Food|OBJC
 C0001973|alcoholismo|dependencia de las bebidas alcohólicas|Mental or Behavioral Dysfunction|DISO
-C0001973|alcohólico|enólico|Mental or Behavioral Dysfunction|DISO
+C0001973|alcohólico|dependiente de las bebidas alcohólicas|Mental or Behavioral Dysfunction|DISO
 C0001975|alcohólico|enólico|Organic Chemical;Pharmacologic Substance|CHEM
 C0001975|etílico|enólico|Organic Chemical;Pharmacologic Substance|CHEM
 C0002055|base|sustancia que forma una sal al combinarse con un ácido|Inorganic Chemical|CHEM
