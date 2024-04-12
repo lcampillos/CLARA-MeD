@@ -13,5 +13,6 @@ To use the script:
   -  ```separasilabas.py```
 - Run the script in the repository: ```python compute_inflesz.py <FILE>```
 
+We thank Rodrigo Alarcón (UC3M) for his help with this tool. 
 _____________________________________________________
 Leonardo Campillos-Llanos - CLARA-MeD project (2023)
